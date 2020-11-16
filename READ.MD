@@ -4,3 +4,5 @@
 
 - Strogonoff de Frango
 - Pavê
+- Torta
+
